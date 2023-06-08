@@ -1,4 +1,4 @@
-#HIPERBLOG :tw-1f310:
+# HIPERBLOG :tw-1f310:
 Este es un blog de test.
-##Versiones
+## Versiones
 Estamos en las ultimas versiones.
