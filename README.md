@@ -2,3 +2,5 @@
 Este es un blog de test.
 ## Versiones
 Estamos en las ultimas versiones.
+### Integrantes
+- Paul Jourdan 
